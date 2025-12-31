@@ -121,9 +121,10 @@
 .link:hover {
   opacity: 80%;
 }
+  
 
-/* -- EXTENSION OVERRIDES -- */
-
+  /* -- EXTENSION OVERRIDES -- */
+  
 @plugin "daisyui/theme" {
   name: "light";
 
